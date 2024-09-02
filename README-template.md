@@ -19,13 +19,13 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
-   The following stages occured while completing this project: 
+   The following stages occurred while completing this project: 
    
-   **I first started working on my html file  by editing the paragraph <p> aand then adding lists to categories the ingredients,preparations and so much more.
+   **I first started working on my HTML file  by editing the paragraph <p> and then adding lists to categorize the ingredients, preparations and so much more.
    
-   **The next step was adding a touch to my html file by declaring the css stylesheet and then adding various selectors to make the styling similar to the original design.
+   **The next step was adding a touch to my HTML file by declaring the CSS stylesheet and then adding various selectors to make the styling similar to the original design.
 
-   **The important part  was ensuring that responsive media queries was accurately supported and potrayed for performance. This helps various users trying to check the static webpage on a mobile device or desktop.
+   **The important part  was ensuring that responsive media queries were accurately supported and portrayed for performance. This helps various users trying to check the static webpage on a mobile device or desktop.
 ### Screenshot
 
 ![](./Tobi_Recipe.png)
